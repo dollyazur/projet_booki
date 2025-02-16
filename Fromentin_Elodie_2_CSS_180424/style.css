@@ -19,6 +19,11 @@ body {
   max-width: 1440px;
   min-width: 375px;
 }
+
+h1 {
+  display: none;
+}
+
 a {
   color: inherit;
   text-decoration: none;
